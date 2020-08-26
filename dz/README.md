@@ -16,3 +16,8 @@
 ```
 # systemctl start rpcbind nfs-server
 ```
+
+
+
+
+- [nfs](https://yvision.kz/post/664247)
