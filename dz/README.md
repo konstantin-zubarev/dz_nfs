@@ -14,5 +14,5 @@ vagrant up должен поднимать 2 виртуалки: сервер и
 
 Ссылка на дополнительную информацию
 - [Установка и настройка NFS](https://itdraft.ru/2019/12/09/ustanovka-i-nastrojka-nfs-servera-klienta-v-centos-7/)
-- [nfs](https://yvision.kz/post/664247)
-- [НАСТРОЙКА FIREWALL CENTOS 7](https://losst.ru/nastrojka-firewall-centos-7)
+- [NFS](https://yvision.kz/post/664247)
+- [Настройка FIREWALL](https://losst.ru/nastrojka-firewall-centos-7)
