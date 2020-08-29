@@ -10,7 +10,9 @@ vagrant up должен поднимать 2 виртуалки: сервер и
 на клиента она должна автоматически монтироваться при старте в шаре должна быть папка upload с правами на запись
 - требования для NFS: NFSv3 по UDP, включенный firewall
 
+Для решение с некоторыми (FIREWALL) трудностями использовал дополнительные источники информации.
 
 Ссылка на дополнительную информацию
 - [Установка и настройка NFS](https://itdraft.ru/2019/12/09/ustanovka-i-nastrojka-nfs-servera-klienta-v-centos-7/)
 - [nfs](https://yvision.kz/post/664247)
+- [НАСТРОЙКА FIREWALL CENTOS 7](https://losst.ru/nastrojka-firewall-centos-7)
